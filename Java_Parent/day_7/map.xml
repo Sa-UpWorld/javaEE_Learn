@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace:名称空间-->
+<!--resultType:返回值类型,决定封装哪种对象-->
+<!--id:唯一标识-->
+<!--#id:从传递过来的参数中取出id值-->
+<!--
+如果是接口实现CRUD方法
+namespqce:接口全类名
+id:方法名
+#{id}:传入参数
+-->
+<mapper namespace="com.man.root.inter.UserMapper">
+
+    <!--    type:自定义规则的java类型  id:唯一标识-->
+    <resultMap id="UserPlus" type="com.bat.root.bean.User">
+        <!--      id:定义主键  column:指定哪一列 property:指定对应的JavaBean类型-->
+        <id column="id" property="id"></id>
+        <result column="username" property="username"></result>
+        <result column="password" property="password"></result>
+        <result column="email" property="email"></result>
+    </resultMap>
+
+    <select id="getUserById" resultType="com.man.root.bean.User">
+        select *
+        from t_user
+        where id = #{id}
+    </select>
+</mapper>
