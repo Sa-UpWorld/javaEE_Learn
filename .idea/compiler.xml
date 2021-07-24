@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="day_8" />
-        <module name="day_6" />
-        <module name="day_5" />
+        <module name="day_9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="day_2" target="16" />
+      <module name="day_5" target="16" />
+      <module name="day_6" target="16" />
+      <module name="day_7" target="16" />
       <module name="Java_Parent" target="16" />
       <module name="javaEE_Parent" target="16" />
       <module name="root" target="16" />
