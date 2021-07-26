@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Parent/day_5/day_5.iml" filepath="$PROJECT_DIR$/Java_Parent/day_5/day_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Parent/day_6/day_6.iml" filepath="$PROJECT_DIR$/Java_Parent/day_6/day_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Parent/day_7/day_7.iml" filepath="$PROJECT_DIR$/Java_Parent/day_7/day_7.iml" />
+    </modules>
+  </component>
+</project>

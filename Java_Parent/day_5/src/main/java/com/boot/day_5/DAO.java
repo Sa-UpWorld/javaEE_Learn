@@ -7,7 +7,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.boot.day_5.DAO;
+package com.boot.day_5;
 
 import java.util.*;
 

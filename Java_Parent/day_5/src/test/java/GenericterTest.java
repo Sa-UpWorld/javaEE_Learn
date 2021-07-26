@@ -8,7 +8,7 @@
  * 作者姓名           修改时间           版本号              描述
  */
 
-import com.boot.day_5.DAO.DAO;
+import com.boot.day_5.DAO;
 import org.junit.Test;
 
 /**

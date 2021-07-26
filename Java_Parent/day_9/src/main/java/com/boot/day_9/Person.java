@@ -7,7 +7,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.boot.day_11.day_10.day_8;
+package com.boot.day_9;
 
 import java.io.Serializable;
 
@@ -29,6 +29,10 @@ public class Person implements Serializable {
     private Integer age;
 
     public Person() {
+    }
+
+    private Person(String name) {
+        this.name = name;
     }
 
     public Person(String name, Integer age) {
@@ -58,5 +62,9 @@ public class Person implements Serializable {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    public void show(){
+        System.out.println("你好，我是"+name+" 今年"+age+"岁");
     }
 }

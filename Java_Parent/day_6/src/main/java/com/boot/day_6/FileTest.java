@@ -86,10 +86,6 @@ public class FileTest {
     @Test
     public void test2(){
         File file=new File("D:\\yan1xxq\\Java基础\\javaEE_Parent\\Java_Parent\\day_6");
-//        String[] list = file.list();
-//        for (String s : list) {
-//            System.out.println(s);
-//        }
         File[] files = file.listFiles();
         for (File file1 : files) {
             System.out.println(file1);

@@ -7,7 +7,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.boot.day_11.day_10.day_9;
+package com.boot.day_9;
 
 import org.junit.Test;
 
@@ -82,7 +82,7 @@ public class ReflectionTest {
         //方式3.调用Class静态方法：forName(String classpath)
         Class clazz1=null;
         try {
-            clazz1=Class.forName("com.boot.day_11.day_10.day_9.Person");
+            clazz1=Class.forName("com.boot.day_9.Person");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -90,7 +90,7 @@ public class ReflectionTest {
         ClassLoader clazzLoader=ReflectionTest.class.getClassLoader();
         Class clazz2=null;
         try {
-            clazz2=clazzLoader.loadClass("com.boot.day_11.day_10.day_9.Person");
+            clazz2=clazzLoader.loadClass("com.boot.day_9.Person");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }

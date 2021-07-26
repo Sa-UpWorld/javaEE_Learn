@@ -9,14 +9,10 @@
         <option value="$PROJECT_DIR$/Java_Parent/day_3/pom.xml" />
         <option value="$PROJECT_DIR$/Java_Parent/day_4/pom.xml" />
         <option value="$PROJECT_DIR$/Java_Parent/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
         <option value="$PROJECT_DIR$/Java_Parent/day_5/pom.xml" />
         <option value="$PROJECT_DIR$/Java_Parent/day_6/pom.xml" />
         <option value="$PROJECT_DIR$/Java_Parent/day_7/pom.xml" />
-      </set>
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
