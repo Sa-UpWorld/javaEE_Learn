@@ -1,0 +1,7 @@
+
+G
+java:S1612 ",Replace this lambda with a method reference.(è©Ô§úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(è©Ô§úÿÿÿÿ
+i
+java:S4276#"TRefactor this code to use the more specialised Functional Interface 'DoubleConsumer'(À¸‰
+U	java:S106."9Replace this use of System.out or System.err by a logger.(÷ðåŸ8ˆÑªè­/

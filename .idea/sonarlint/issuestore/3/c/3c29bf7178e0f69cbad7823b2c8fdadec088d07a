@@ -1,0 +1,35 @@
+
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¾òáÄøÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÊÃ—·ûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(£Åö±
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ó‚Šı
+B
+java:S1612=",Replace this lambda with a method reference.(œÉ«€
+N	java:S106="9Replace this use of System.out or System.err by a logger.(œÉ«€
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ó‚Šı
+D
+java:S1611O"/Remove the parentheses around the "s" parameter(éÄÀ
+A
+java:S1612O",Replace this lambda with a method reference.(éÄÀ
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(éÄÀ
+B
+java:S1612Y",Replace this lambda with a method reference.(¾¶¦â
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(¾¶¦â
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(Üİ®å
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ª“ÿÏüÿÿÿÿ
+M	java:S106k"9Replace this use of System.out or System.err by a logger.(ïõõ	
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ˆşÅß
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(òÊŒ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(òÊŒ
+u
+java:S1192>"ZDefine a constant instead of duplicating this literal "è°è¨€å’Œèª“è¨€çš„åŒºåˆ«!" 3 times.(¬²‡şÿÿÿÿ
+>
+java:S1604$"(Make this anonymous inner class a lambda(ÚØ•¹
+C
+java:S16045"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ
+C
+java:S1604F"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ
+>
+java:S1604b"(Make this anonymous inner class a lambda(Û•óù

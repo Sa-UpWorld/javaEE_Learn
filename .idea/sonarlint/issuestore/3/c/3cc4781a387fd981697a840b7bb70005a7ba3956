@@ -1,0 +1,27 @@
+
+G
+java:S1612!",Replace this lambda with a method reference.(šœÈºüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ïºûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¡Ñ‰ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(®ò¨Øÿÿÿÿÿ
+B
+java:S1612-",Replace this lambda with a method reference.(ÀÛ­†
+N	java:S106."9Replace this use of System.out or System.err by a logger.(˜â„¥
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Šƒ÷‹
+B
+java:S16129",Replace this lambda with a method reference.(ğÙÂ†
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ğÕ‚ş
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¡Ñ‰ÿÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ØàÄôşÿÿÿÿ
+v
+java:S4276B"[Refactor this code to use the more specialised Functional Interface 'IntFunction<String[]>'(­çøäüÿÿÿÿ
+L
+java:S1611B"1Remove the parentheses around the "len" parameter(­çøäüÿÿÿÿ
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¹Ü¨ëıÿÿÿÿ8¥û¢ì­/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(¡Ñ‰ÿÿÿÿÿ8”®ì­/
+x
+java:S4276E"[Refactor this code to use the more specialised Functional Interface 'IntFunction<String[]>'(Ô¿Ú¹8•Ô®ì­/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(şêÁËüÿÿÿÿ8˜û¯ì­/
+p
+java:S1192#"NDefine a constant instead of duplicating this literal "æ–¹æ³•å¼•ç”¨:" 3 times.(¡Ñ‰ÿÿÿÿÿ8•®ì­/

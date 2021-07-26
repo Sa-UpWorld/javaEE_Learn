@@ -3,19 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>day_7</artifactId>
+        <artifactId>day_8</artifactId>
         <groupId>org.boot</groupId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../day_7/pom.xml</relativePath>
+        <relativePath>../day_8/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>day_8</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>../day_9</module>
-        <module>../day_11</module>
-    </modules>
+    <artifactId>day_11</artifactId>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>

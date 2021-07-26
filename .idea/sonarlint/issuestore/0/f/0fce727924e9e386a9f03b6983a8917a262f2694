@@ -1,0 +1,6 @@
+
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(é™õ®üÿÿÿÿ
+E
+java:S2093""*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093q"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

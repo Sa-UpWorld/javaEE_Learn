@@ -1,0 +1,19 @@
+
+6
+java:S2129!" Remove this "String" constructor(‘Îýˆ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Î®É
+E
+java:S2093:"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093T"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+`
+java:S2147r"ECombine this catch with the one at line 111, which has the same body.(©œ¡ÿÿÿÿÿ
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(€ž§!
+>
+java:S1905n")Remove this unnecessary cast to "Person".(€ž§!
+E
+java:S2093k"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

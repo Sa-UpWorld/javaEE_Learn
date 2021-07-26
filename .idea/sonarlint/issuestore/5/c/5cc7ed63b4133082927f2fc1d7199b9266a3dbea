@@ -1,0 +1,12 @@
+
+N	java:S106("9Replace this use of System.out or System.err by a logger.(«ê‚÷
+E
+java:S2093#"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093Z"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+`
+java:S1192$"JDefine a constant instead of duplicating this literal "hello.txt" 4 times.(§Õ÷
