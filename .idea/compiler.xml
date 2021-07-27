@@ -10,13 +10,11 @@
         <module name="day_10" />
         <module name="day_6" />
         <module name="day_5" />
+        <module name="day_12" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="day_2" target="16" />
-      <module name="day_5" target="16" />
-      <module name="day_6" target="16" />
-      <module name="day_7" target="16" />
       <module name="Java_Parent" target="16" />
       <module name="javaEE_Parent" target="16" />
       <module name="root" target="16" />
